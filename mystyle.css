@@ -1,0 +1,13 @@
+
+div { border-style: solid; border-color: rgb(226, 43, 195); border-width: 3px;}
+        .row2 { border-style: solid; border-color: rgb(222, 230, 248); border-width: 3px;}
+    
+.rounded {
+                width: 100px;
+                height: 100px;
+                vertical-align: center;
+                text-align: center;
+                background-color: blue;
+                border-color: rgb(110, 156, 24);
+                }
+    
