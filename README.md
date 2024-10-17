@@ -1,1 +1,1 @@
-This a website dedicated to Jimi Hendrix.
+This a project dedicated to Jimi Hendrix.
