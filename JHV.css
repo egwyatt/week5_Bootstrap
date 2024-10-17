@@ -1,0 +1,33 @@
+
+
+
+body{background-color: #eb9b9b;
+
+
+
+
+.bear{color: rgb(209, 32, 171);
+font-size: 25px;
+background-color: rgb(250, 197, 234);
+border-radius: 20px;
+padding: 20px;}
+
+.bear1{color: rgb(209, 32, 171);
+    font-size: 25px;
+    background-color: rgb(252, 195, 239);
+    border-radius: 20px;
+    padding: 20px;}
+    
+    p {color:rgb(153, 34, 147);
+    text-align:center;
+    font-weight: bold;
+    font-size: 20px;
+font-family: cursive;}
+
+    
+
+
+    .video1{display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;}

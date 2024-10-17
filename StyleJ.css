@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+#Jimi {color: rgb(226, 43, 134);
+  background-color: rgb(216, 179, 199);
+  font-size: 40px;
+  text-align: center; 
+  width: 700px;
+  font-family: cursive;
+  border-radius: 13px;
+padding: 10px;}
+  
+
+
+
+body
+    {
+        background-color: rgb(236, 155, 196);}
+
+        .mySlides {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 80%;}
+    
+
+.PP3 {
+
+            display: flex;
+          
+            justify-content: center; 
+          
+            align-items: center;     
+          
+          }
+
+.center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 33%;
+          }
+
+    #J {font-size: 20px;
+    background-color: aqua; 
+    width: 1100px;
+    border-radius: 40px;
+    padding: 40px;
+    color: rgb(124, 7, 65);
+    }
+
+
+    .PP4 {  display: flex;
+          
+        justify-content: center; 
+      
+        align-items: center;     
+      }
+
+      .footage {font-size: 40px;
+      width: 100px;
+      font-size: 20px;
+      border-radius: 10px;
+      text-align: right;
+      padding:20px;
+      background-color:pink;
+      color: rgb(197, 52, 185);}
+
+      .star { background-color: rgb(240, 219, 235);
+        text-align: right
+        width: 100px;
+        font-size: 20px;
+        color:rgb(216, 59, 216);
+        border-radius: 10px;
+        padding: 20px;}
+  }
+   #Newsletter{color:rgb(245, 14, 91);
+    font-size: 40px;
+    text-align:center;}
+
+    .PP5 {font-size: 30px;
+      
+      text-align:center;
+      color: rgb(243, 50, 124)
+    }
+  
+.PP5 {font-size: 30px;
+  
+  text-align:center;
+  color: rgb(236, 15, 81);
+  
+  
+}
+
+.column {
+  float: left;
+  width: 50%;
+  border: solid;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  border:solid;
+}
+
+td
+{border-radius: 40px;}
+
+
+
+  body
+    {
+        background-color: rgb(236, 155, 196);}
+        .column {
+          float: left;
+          width: 50%;
+        }
+        
+        /* Clear floats after the columns */
+        .row:after {
+          content: "";
+          display: table;
+          clear: both;
+        }
+        h3 {font-size:20px;
+        color:rgb(214, 29, 143)}
+
+        p1{ font-size: 20px;}
+
+        p2{color:
+          border-radius: 40px;
+          background-color: aqua;
+          border-radius: 40px;
+          padding:30px;
+        
+
+          .jj {
+
+            display: flex;
+          
+            justify-content: center; 
+          
+            align-items: center;     
+          
+          }
+          .row{ border-style: solid; border-color: rgb(226, 43, 195); border-top-width: 3px;}
+          .column {
+            float: left;
+            width: 25%;
+          }
+          
+          /* Clear floats after the columns */
+          .row:after {
+            content: "";
+            display: table;
+            clear: both;
+          }
